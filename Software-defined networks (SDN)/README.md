@@ -3,7 +3,7 @@
 
 
 ## The Network Update Problem
-1. Chronus: Consistent Data Plane Updates in Timed SDNs [Summery](chronus_summery.md), [PDF](chronus.PDF)
+1. Chronus: Consistent Data Plane Updates in Timed SDNs [Summery](chronus_summery.md), [PDF](chronus.pdf)
 
 
 ## SDN in Safety-critical Systems
