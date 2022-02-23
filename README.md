@@ -1,12 +1,7 @@
 # SelectedTopicsInNetworkedSystems
 
 ## Summary of major works in network update problem in SDN <br>
-```diff
-- Over one year, I worked on the network update problem in SDN.
-- I created multiple tables to compare works in that field in a private repository.
-- Now, I am trying to merge the tables and make them public.
-- Possibly, there are some mistakes until completion.
-```
+
 
 
 No.|Year|Description|Advantage|Limitation| Summary | Evaluation Results |
