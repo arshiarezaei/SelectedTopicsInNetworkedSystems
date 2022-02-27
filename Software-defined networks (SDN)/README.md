@@ -9,7 +9,7 @@
 
 ## Research Areas 
 
-  ### The Network Update Problem
+  ### Network Update
 
 
 ## SDN in Safety-critical Systems
