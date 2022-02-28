@@ -13,4 +13,4 @@
 
 
 ## Related Papers
-  1. [FlowVisor: A Network Virtualization Layer](http://dcis.uohyd.ac.in/~apcs/acn/flowvisor.pdf) [Summary](summaries/FlowVisor_A_Network_Virtualization_Layer.md)
+  1. FlowVisor: A Network Virtualization Layer. [PDF](http://dcis.uohyd.ac.in/~apcs/acn/flowvisor.pdf), [Summary](summaries/FlowVisor_A_Network_Virtualization_Layer.md)
