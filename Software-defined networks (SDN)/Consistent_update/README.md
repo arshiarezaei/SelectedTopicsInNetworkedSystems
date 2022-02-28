@@ -12,7 +12,7 @@
   2. [ReversePTP: A clock synchronization scheme for software‐defined networks](https://onlinelibrary.wiley.com/doi/10.1002/nem.1942)
   3. [ReversePTP: A Software Defined Networking Approach to Clock Synchronization](https://dl.acm.org/doi/10.1145/2620728.2620764), [PDF](https://dl.acm.org/doi/pdf/10.1145/2620728.2620764)
   4. [Software defined networks: It's about time](https://ieeexplore.ieee.org/document/7524418) [technical report](https://arxiv.org/pdf/1505.03421.pdf)
-  5. [Dynamic Scheduling of Network Updates](https://dl.acm.org/doi/10.1145/2740070.2626307), [PDF](https://dl.acm.org/doi/pdf/10.1145/2740070.2626307?casa_token=E2ajcxVkElIAAAAA:gmOgIACyHqQiqAKQRVejbP1K_37KreR4_TyuzYMTCH-P0M_GdNYnz7-K6x0YCF9Ns_SWFaE26VMp), [extended version](slides/SIGCOMM14_Dionysus_extended.pdf), [Slides](slides/SIGCOMM14_Dionysus_slides.pptx)
+  5. [Dynamic Scheduling of Network Updates](https://dl.acm.org/doi/10.1145/2740070.2626307), [PDF](https://dl.acm.org/doi/pdf/10.1145/2740070.2626307?casa_token=E2ajcxVkElIAAAAA:gmOgIACyHqQiqAKQRVejbP1K_37KreR4_TyuzYMTCH-P0M_GdNYnz7-K6x0YCF9Ns_SWFaE26VMp), [extended version](papers/SIGCOMM14_Dionysus_extended.pdf), [Slides](slides/SIGCOMM14_Dionysus_slides.pptx)
   6. [Cupid: Congestion-free Consistent Data Plane Update In Software Defined Networks](https://ieeexplore.ieee.org/document/7524420)
   7. [Update Algebra: Toward Continuous, Non-Blocking Composition of Network Updates in SDN](https://ieeexplore.ieee.org/document/8737618)
   8. [Coeus: Consistent and Continuous Network Update in Software-Defined Networks](https://ieeexplore.ieee.org/document/9155392)
